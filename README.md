@@ -17,7 +17,7 @@ I build clean, scalable web applications and help teams ship better software. I 
 ## Skills
 
 - **Frontend:** Svelte, Vue, React, Astro
-- **Backend:** Node.js, Python
+- **Backend:** Node.js, Nest.js, Python
 - **Frameworks:** SvelteKit, Next, Nuxt, Angular, Astro
 - **DevOps:** Kubernetes, Docker, GitLab CI, GitHub Actions
 - **Databases:** MongoDB, MySQL, PostgreSQL, Firebase

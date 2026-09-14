@@ -10,7 +10,7 @@ Full-Stack Developer · Tech Manager · AI Enthusiast
 
 I build clean, scalable web applications and help teams ship better software. I love combining technical leadership with hands-on development, especially in JavaScript/TypeScript, AI, and modern web frameworks.
 
-- 🚀 Full-Stack Developer & Tech Manager at **CBTW**
+- 🚀 Full-Stack Developer
 - 🤖 AI Referent helping teams adopt practical AI solutions
 - 🌱 Always learning new tools, frameworks, and practices
 

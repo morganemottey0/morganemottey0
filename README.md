@@ -1,6 +1,6 @@
 # Hey, I'm Morgane 👋
 
-Full-Stack Developer · Tech Manager · AI Enthusiast
+Full-Stack Developer
 
 [Malt](https://www.malt.fr/profile/morganemottey) • [LinkedIn](https://www.linkedin.com/in/morgane-mottey-9a3126b5/) • morgane.mottey@gmail.com
 

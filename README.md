@@ -11,7 +11,8 @@ Full-Stack Developer
 I build clean, scalable web applications and help teams ship better software. I love combining technical leadership with hands-on development, especially in JavaScript/TypeScript, AI, and modern web frameworks.
 
 - 🚀 Full-Stack Developer
-- 🤖 AI Referent helping teams adopt practical AI solutions
+- 🏔️ Ultra-trail runner & marathon finisher — I chase long distances the same way I chase clean code: with patience, strategy, and focus.
+- 🏄 Surfer & skater since age 9 — some passions evolve and get better with time.
 - 🌱 Always learning new tools, frameworks, and practices
 
 ## Skills
@@ -31,12 +32,6 @@ I build clean, scalable web applications and help teams ship better software. I 
 - **Curious:** I stay on the lookout for new frameworks, AI breakthroughs, and open-source gems.
 
 > *"Code hard. Run long. Share everything."*
-
-## Personal note
-
-🏔️ Ultra-trail runner & marathon finisher — I chase long distances the same way I chase clean code: with patience, strategy, and focus.
-
-🏄 Surfer & skater since age 9 — some passions evolve and get better with time.
 
 ## Contact
 

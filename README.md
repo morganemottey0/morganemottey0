@@ -13,13 +13,13 @@ I build clean, scalable web applications and help teams ship better software. I 
 - 🚀 Full-Stack Developer
 - 🏔️ Ultra-trail runner & marathon finisher — I chase long distances the same way I chase clean code: with patience, strategy, and focus.
 - 🏄 Surfer & skater since age 12 — some passions evolve and get better with time.
-- 🌱 Always learning new tools, frameworks, and practices
 
 ## Skills
 
 - **Frontend:** Svelte, Vue, React, Astro
 - **Backend:** Node.js, Nest.js, Python
-- **Frameworks:** SvelteKit, Next, Nuxt, Angular, Astro
+- **Frameworks:** SvelteKit, Next, Nuxt, Astro
+- **CMS:** ApostropheCMS
 - **DevOps:** Kubernetes, Docker, GitLab CI, GitHub Actions
 - **Databases:** MongoDB, MySQL, PostgreSQL, Firebase
 - **Tooling:** Vite, Rollup, Esbuild, PNPM, Monorepo
@@ -30,8 +30,6 @@ I build clean, scalable web applications and help teams ship better software. I 
 - **Collaborative:** I enjoy mentoring devs and sharing knowledge.
 - **Pragmatic:** I focus on real-world solutions that ship quickly.
 - **Curious:** I stay on the lookout for new frameworks, AI breakthroughs, and open-source gems.
-
-> *"Code hard. Run long. Share everything."*
 
 ## Contact
 

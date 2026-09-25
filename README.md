@@ -1,7 +1,3 @@
-# Hey, I'm Morgane 👋
-
----
-
 ## About me
 
 - 🚀 Full-Stack Developer
@@ -21,12 +17,6 @@
 
 ## Contact
 
-Want to discuss your next project?
-
-- Email: morgane.mottey@gmail.com
+- morgane.mottey@gmail.com
 - [Malt profile](https://www.malt.fr/profile/morganemottey)
 - [LinkedIn profile](https://www.linkedin.com/in/morgane-mottey-9a3126b5/)
-
----
-
-> I have a second GitHub account because this one was blocked. It was my first account when I started development, and it contains small projects with HTML/CSS, React, and PHP/Symfony.

@@ -1,7 +1,7 @@
 ## About me
 
 - 🚀 Full-Stack Developer
-- 🏔️ Ultra-trail runner & marathon finisher — I chase long distances the same way I chase clean code: with patience, strategy, and focus.
+- 🏔️ Ultra-trail runner & marathon finisher
 - 🏄 Surfer & skater since age 12 — some passions evolve and get better with time.
 
 ## Skills

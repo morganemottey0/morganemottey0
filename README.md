@@ -1,14 +1,8 @@
 # Hey, I'm Morgane 👋
 
-Full-Stack Developer
-
-[Malt](https://www.malt.fr/profile/morganemottey) • [LinkedIn](https://www.linkedin.com/in/morgane-mottey-9a3126b5/) • morgane.mottey@gmail.com
-
 ---
 
 ## About me
-
-I build clean, scalable web applications and help teams ship better software. I love combining technical leadership with hands-on development, especially in JavaScript/TypeScript, AI, and modern web frameworks.
 
 - 🚀 Full-Stack Developer
 - 🏔️ Ultra-trail runner & marathon finisher — I chase long distances the same way I chase clean code: with patience, strategy, and focus.
@@ -24,12 +18,6 @@ I build clean, scalable web applications and help teams ship better software. I 
 - **Databases:** MongoDB, MySQL, PostgreSQL, Firebase
 - **Tooling:** Vite, Rollup, Esbuild, PNPM, Monorepo
 - **Design:** UX/UI
-
-## Philosophy
-
-- **Collaborative:** I enjoy mentoring devs and sharing knowledge.
-- **Pragmatic:** I focus on real-world solutions that ship quickly.
-- **Curious:** I stay on the lookout for new frameworks, AI breakthroughs, and open-source gems.
 
 ## Contact
 

@@ -2,7 +2,7 @@
 
 - 🚀 Full-Stack Developer
 - 🏔️ Ultra-trail runner & marathon finisher
-- 🏄 Surfer & skater since age 12 — some passions evolve and get better with time.
+- 🏄 Skater since age 12 & Surfer
 
 ## Skills
 
